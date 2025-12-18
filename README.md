@@ -1,10 +1,20 @@
-# 🚀 Max Profit Problem – Python Application
+#  Max Profit Problem – Python Application
 
 A **Python-based solution** for the **Max Profit optimization problem**, built as part of an interview assignment. The project calculates the **optimal mix of properties** (Theatres, Pubs, Commercial Parks) to **maximize total earnings** within a given time constraint.
 
 ---
 
-## 📌 Project Need / Purpose
+##  Screenshot
+
+![Max Profit Output](https://github.com/vinozzxx/Max-Profit---Algorithm/blob/91c9c3ecd3c4e98398c53f27af1085116a5208f8/image%201%20.png)
+
+![Max Profit Output](https://github.com/vinozzxx/Max-Profit---Algorithm/blob/91c9c3ecd3c4e98398c53f27af1085116a5208f8/image%202%20.png)
+
+
+
+---
+
+##  Project Need / Purpose
 
 This project demonstrates:
 
@@ -17,7 +27,7 @@ The scenario simulates real-world **resource planning**, where limited time must
 
 ---
 
-## 🧠 Problem Statement
+##  Problem Statement
 
 Mr. X owns infinite land on Mars. He can develop the land with the following properties:
 
@@ -41,7 +51,7 @@ T:<count> P:<count> C:<count>
 
 ---
 
-## 📊 Sample Test Cases
+##  Sample Test Cases
 
 ### Test Case 1
 
@@ -69,7 +79,7 @@ T:2 P:0 C:0
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python 3**
 * **Virtual Environment (.venv)**
@@ -77,7 +87,7 @@ T:2 P:0 C:0
 
 ---
 
-## 📂 Project File Structure
+##  Project File Structure
 
 ```
 MAX/
@@ -90,7 +100,7 @@ MAX/
 
 ---
 
-## ⚙️ How the Solution Works
+##  How the Solution Works
 
 1. Take **n (time units)** as input
 2. Evaluate all possible combinations of properties
@@ -103,17 +113,7 @@ This ensures the **optimal earning strategy**.
 
 ---
 
-## 📸 Screenshot
-
-### 🔹 Project Structure & Output
-
-![Max Profit Output](./screenshot.png)
-
-> 📌 *Shows project files and execution result*
-
----
-
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository
 
@@ -142,7 +142,7 @@ This ensures the **optimal earning strategy**.
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 * Solving optimization problems
 * Writing clean Python code
@@ -151,21 +151,7 @@ This ensures the **optimal earning strategy**.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-**Vino**
-Aspiring Data Scientist | Python & Algorithms Enthusiast
-
----
-
-## ⭐ Support
-
-If you find this project useful:
-
-* ⭐ Star the repository
-* 🍴 Fork it
-* 🧠 Improve the logic
-
----
-
-Happy Coding 😊
+**Vinothkumar**
+Aspiring Data Scientist 
